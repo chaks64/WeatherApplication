@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="tab_text_1">Local Weather</string>
+    <string name="tab_text_2">Search Location</string>
+    <string name="tab_text_3">7 Days</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="local_weather_fragment">Local weather</string>
+    <string name="come_back_activity">Please restart the application</string>
+    <string name="location_rationale">Weather app needs location access to get weather details</string>
+    <string name="permission_denied">All app features may not work correctly since location permission denied</string>
+    <string name="gps_not_enabled">GPS turned off, showing weather info for Milpitas, US</string>
+    <string name="dialog_cancel">Cancel</string>
+    <string name="open_settings">Open GPS Settings</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
