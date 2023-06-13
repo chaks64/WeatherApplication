@@ -4,8 +4,6 @@ CMPE 277 - Final Project
 
 Project Topic - Weather Application
 
-Team 2 - Chintan Shah, Mugdha Gumphekar, Teja Ganapati Jaddipal
-
 The main purpose of the app is to provide weather details. It has 3 tabs. The first tab shows the current weather for the user’s location. The second tab has an interactive map where users can search for any location in the world and get weather details for that location. The last tab shows the weather forecast for 7 days for the location of the user. Android features we have used in the app
 1. Constraint Layout
 2. Tabbed activity
